@@ -6,6 +6,10 @@ The project will review the data: https://www.kaggle.com/datasets/dhanushnarayan
 
 Using the given variables, we will be able to help Discover discover patterns in credit card fraud. 
 
+# Choosing the Data
+This data was chosen for its size, recentness, and variable interpretability. 
+The columns/variables are labeled in a manner that would be understood as to what it represented. There were many other data sets but they unfortunately did not have labeled columns and thus would have made it difficult to interpret and present as a solution to a hypothetical problem. 
+
 # Notebook
 Unfortunately, due to an error in creating the GitHub, all files used are located in the main branch. The important file with code that we would like to present is labeled as "Group 8 Final Code". 
 
